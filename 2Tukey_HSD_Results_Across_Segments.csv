@@ -1,0 +1,76 @@
+Segment,group1,group2,meandiff,p-adj,lower,upper,reject
+0,Africa,East Asia,0.0699,0.0827,-0.0049,0.1448,False
+0,Africa,Europe,0.0819,0.0289,0.005,0.1587,True
+0,Africa,South America,0.1074,0.001,0.0304,0.1843,True
+0,Africa,SouthCentral Asia,0.024,0.9581,-0.0566,0.1047,False
+0,Africa,West Asia,0.0694,0.161,-0.0135,0.1523,False
+0,East Asia,Europe,0.0119,0.9963,-0.0566,0.0804,False
+0,East Asia,South America,0.0374,0.6292,-0.0312,0.1061,False
+0,East Asia,SouthCentral Asia,-0.0459,0.4667,-0.1187,0.0269,False
+0,East Asia,West Asia,-0.0005,1.0,-0.0758,0.0747,False
+0,Europe,South America,0.0255,0.9089,-0.0453,0.0963,False
+0,Europe,SouthCentral Asia,-0.0578,0.2363,-0.1326,0.017,False
+0,Europe,West Asia,-0.0124,0.9975,-0.0897,0.0648,False
+0,South America,SouthCentral Asia,-0.0833,0.0192,-0.1583,-0.0084,True
+0,South America,West Asia,-0.0379,0.7283,-0.1153,0.0394,False
+0,SouthCentral Asia,West Asia,0.0454,0.6011,-0.0357,0.1264,False
+1,Africa,East Asia,0.0798,0.0535,-0.0007,0.1604,False
+1,Africa,Europe,0.0317,0.8836,-0.0508,0.1143,False
+1,Africa,South America,0.0928,0.0177,0.01,0.1756,True
+1,Africa,SouthCentral Asia,0.0955,0.0207,0.0089,0.1821,True
+1,Africa,West Asia,0.0053,1.0,-0.0839,0.0944,False
+1,East Asia,Europe,-0.0481,0.4385,-0.1227,0.0264,False
+1,East Asia,South America,0.013,0.9964,-0.0618,0.0878,False
+1,East Asia,SouthCentral Asia,0.0157,0.9932,-0.0633,0.0947,False
+1,East Asia,West Asia,-0.0746,0.0972,-0.1563,0.0072,False
+1,Europe,South America,0.0611,0.2093,-0.0159,0.1381,False
+1,Europe,SouthCentral Asia,0.0638,0.217,-0.0172,0.1449,False
+1,Europe,West Asia,-0.0264,0.9466,-0.1102,0.0573,False
+1,South America,SouthCentral Asia,0.0027,1.0,-0.0786,0.084,False
+1,South America,West Asia,-0.0875,0.0353,-0.1715,-0.0035,True
+1,SouthCentral Asia,West Asia,-0.0903,0.0395,-0.178,-0.0025,True
+2,Africa,East Asia,-0.0038,1.0,-0.086,0.0784,False
+2,Africa,Europe,0.0633,0.2683,-0.0211,0.1477,False
+2,Africa,South America,0.0493,0.5578,-0.0353,0.1339,False
+2,Africa,SouthCentral Asia,0.0603,0.379,-0.0284,0.149,False
+2,Africa,West Asia,-0.0031,1.0,-0.0944,0.0881,False
+2,East Asia,Europe,0.0671,0.1238,-0.0094,0.1436,False
+2,East Asia,South America,0.0531,0.357,-0.0236,0.1297,False
+2,East Asia,SouthCentral Asia,0.0641,0.2144,-0.017,0.1452,False
+2,East Asia,West Asia,0.0007,1.0,-0.0832,0.0846,False
+2,Europe,South America,-0.014,0.996,-0.093,0.065,False
+2,Europe,SouthCentral Asia,-0.003,1.0,-0.0864,0.0804,False
+2,Europe,West Asia,-0.0664,0.2385,-0.1525,0.0197,False
+2,South America,SouthCentral Asia,0.011,0.999,-0.0725,0.0945,False
+2,South America,West Asia,-0.0524,0.5108,-0.1387,0.0339,False
+2,SouthCentral Asia,West Asia,-0.0634,0.3413,-0.1537,0.0269,False
+3,Africa,East Asia,-0.0113,0.999,-0.0964,0.0739,False
+3,Africa,Europe,0.0832,0.071,-0.0039,0.1704,False
+3,Africa,South America,0.0263,0.9565,-0.0612,0.1137,False
+3,Africa,SouthCentral Asia,0.1433,0.0001,0.0517,0.2349,True
+3,Africa,West Asia,0.1316,0.001,0.0374,0.2258,True
+3,East Asia,Europe,0.0945,0.0081,0.0159,0.1732,True
+3,East Asia,South America,0.0376,0.7535,-0.0414,0.1166,False
+3,East Asia,SouthCentral Asia,0.1546,0.0,0.071,0.2382,True
+3,East Asia,West Asia,0.1429,0.0,0.0565,0.2293,True
+3,Europe,South America,-0.0569,0.342,-0.1381,0.0242,False
+3,Europe,SouthCentral Asia,0.0601,0.3424,-0.0256,0.1457,False
+3,Europe,West Asia,0.0484,0.6241,-0.04,0.1367,False
+3,South America,SouthCentral Asia,0.117,0.0015,0.0311,0.2029,True
+3,South America,West Asia,0.1053,0.0093,0.0167,0.194,True
+3,SouthCentral Asia,West Asia,-0.0117,0.9992,-0.1045,0.0811,False
+4,Africa,East Asia,-0.0078,0.9999,-0.1013,0.0857,False
+4,Africa,Europe,0.0678,0.3327,-0.028,0.1635,False
+4,Africa,South America,0.16,0.0,0.064,0.256,True
+4,Africa,SouthCentral Asia,0.1858,0.0,0.0852,0.2864,True
+4,Africa,West Asia,0.2134,0.0,0.1103,0.3166,True
+4,East Asia,Europe,0.0756,0.1322,-0.0115,0.1627,False
+4,East Asia,South America,0.1678,0.0,0.0805,0.2552,True
+4,East Asia,SouthCentral Asia,0.1936,0.0,0.1013,0.286,True
+4,East Asia,West Asia,0.2213,0.0,0.1261,0.3164,True
+4,Europe,South America,0.0922,0.0399,0.0025,0.182,True
+4,Europe,SouthCentral Asia,0.1181,0.0051,0.0234,0.2127,True
+4,Europe,West Asia,0.1457,0.0003,0.0483,0.2431,True
+4,South America,SouthCentral Asia,0.0258,0.9716,-0.0691,0.1207,False
+4,South America,West Asia,0.0534,0.6245,-0.0442,0.151,False
+4,SouthCentral Asia,West Asia,0.0276,0.9723,-0.0745,0.1297,False
